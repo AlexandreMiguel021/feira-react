@@ -1,4 +1,4 @@
-<center><h1>🍇🍊 Feira <strong>React</strong> 🍇🍊</h1></center>
+<img src="https://cdn.discordapp.com/attachments/922557394419056671/944725414834765884/feira-react.png">
 
 ## **📑 Sobre**
 
