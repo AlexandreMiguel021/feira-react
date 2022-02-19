@@ -4,8 +4,6 @@
 
 ### Este projeto é um e-commerce simples no qual foi criado em conjunto com o curso de React na Alura, utilizando Gerenciamento de estados globais com ContextAPI.
 
-<br>
-
 ### **✅ Tópicos Tratado**
 
 - Gerenciar estados globais com ContextAPI.
@@ -14,17 +12,11 @@
 - Código mais limpo e performático utilizando boas práticas.
 - Desenvolvimento do código com base no princípio da responsabilidade única, facilitando a manutenção do mesmo.
 
-<br>
-
 ---
-
-<br>
 
 ## **📱 Interface**
 
 ### Para a construção do design foi utilizado _Material-UI_ proporcionando uma construção mais rápída do design do sistema. também foi utilizado o _styled-components_ para a estilização dos components pesonalizados.
-
-</br>
 
 <div >
   <img width="200px" src="https://cdn.discordapp.com/attachments/922557394419056671/944689507641475082/login.png">
@@ -33,11 +25,7 @@
   <img width="200px" src="https://cdn.discordapp.com/attachments/922557394419056671/944689507230425148/finalizado.png">
 </div>
   
-<br>
-
 ---
-
-<br>
 
 ## **🚀 Tecnologias utilizadas**
 
@@ -45,11 +33,7 @@
 - [Material-UI](https://mui.com/)
 - [styled-components](https://styled-components.com/)
 
-<br>
-
 ---
-
-<br>
 
 ## **⚙️ Funcionalidades**
 
@@ -58,11 +42,7 @@
 - Opções para forma de pagamentos
 - Finalizar compra
 
-<br>
-
 ---
-
-<br>
 
 ## **Pré-requesitos**
 
